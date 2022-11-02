@@ -1,0 +1,6 @@
+C:\Users\Federico PC\Desktop\C#\Programacion Orientada a Objetos\slnInstrumentos\LibreriaAjedrez\bin\Debug\LibreriaAjedrez.dll
+C:\Users\Federico PC\Desktop\C#\Programacion Orientada a Objetos\slnInstrumentos\LibreriaAjedrez\bin\Debug\LibreriaAjedrez.pdb
+C:\Users\Federico PC\Desktop\C#\Programacion Orientada a Objetos\slnInstrumentos\LibreriaAjedrez\obj\Debug\LibreriaAjedrez.csproj.AssemblyReference.cache
+C:\Users\Federico PC\Desktop\C#\Programacion Orientada a Objetos\slnInstrumentos\LibreriaAjedrez\obj\Debug\LibreriaAjedrez.csproj.CoreCompileInputs.cache
+C:\Users\Federico PC\Desktop\C#\Programacion Orientada a Objetos\slnInstrumentos\LibreriaAjedrez\obj\Debug\LibreriaAjedrez.dll
+C:\Users\Federico PC\Desktop\C#\Programacion Orientada a Objetos\slnInstrumentos\LibreriaAjedrez\obj\Debug\LibreriaAjedrez.pdb

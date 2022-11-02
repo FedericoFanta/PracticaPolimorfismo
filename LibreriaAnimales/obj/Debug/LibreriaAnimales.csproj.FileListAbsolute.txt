@@ -1,0 +1,6 @@
+C:\Users\Federico PC\Desktop\C#\Programacion Orientada a Objetos\slnInstrumentos\LibreriaAnimales\bin\Debug\LibreriaAnimales.dll
+C:\Users\Federico PC\Desktop\C#\Programacion Orientada a Objetos\slnInstrumentos\LibreriaAnimales\bin\Debug\LibreriaAnimales.pdb
+C:\Users\Federico PC\Desktop\C#\Programacion Orientada a Objetos\slnInstrumentos\LibreriaAnimales\obj\Debug\LibreriaAnimales.csproj.AssemblyReference.cache
+C:\Users\Federico PC\Desktop\C#\Programacion Orientada a Objetos\slnInstrumentos\LibreriaAnimales\obj\Debug\LibreriaAnimales.csproj.CoreCompileInputs.cache
+C:\Users\Federico PC\Desktop\C#\Programacion Orientada a Objetos\slnInstrumentos\LibreriaAnimales\obj\Debug\LibreriaAnimales.dll
+C:\Users\Federico PC\Desktop\C#\Programacion Orientada a Objetos\slnInstrumentos\LibreriaAnimales\obj\Debug\LibreriaAnimales.pdb

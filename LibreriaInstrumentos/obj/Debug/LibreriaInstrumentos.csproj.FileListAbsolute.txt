@@ -1,0 +1,6 @@
+C:\Users\Federico PC\Desktop\C#\Programacion Orientada a Objetos\slnInstrumentos\LibreriaInstrumentos\bin\Debug\LibreriaInstrumentos.dll
+C:\Users\Federico PC\Desktop\C#\Programacion Orientada a Objetos\slnInstrumentos\LibreriaInstrumentos\bin\Debug\LibreriaInstrumentos.pdb
+C:\Users\Federico PC\Desktop\C#\Programacion Orientada a Objetos\slnInstrumentos\LibreriaInstrumentos\obj\Debug\LibreriaInstrumentos.csproj.AssemblyReference.cache
+C:\Users\Federico PC\Desktop\C#\Programacion Orientada a Objetos\slnInstrumentos\LibreriaInstrumentos\obj\Debug\LibreriaInstrumentos.csproj.CoreCompileInputs.cache
+C:\Users\Federico PC\Desktop\C#\Programacion Orientada a Objetos\slnInstrumentos\LibreriaInstrumentos\obj\Debug\LibreriaInstrumentos.dll
+C:\Users\Federico PC\Desktop\C#\Programacion Orientada a Objetos\slnInstrumentos\LibreriaInstrumentos\obj\Debug\LibreriaInstrumentos.pdb
